@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">YouSNP</string>
+    <string name="header_users">Usuários</string>
+    <string name="header_data">Dados</string>
+    <string name="header_access">Acessos</string>
+
+    <string name="label_id">ID</string>
+    <string name="label_username">Usuário</string>
+    <string name="label_password">Senha</string>
+    <string name="label_tag">Tag</string>
+    <string name="label_status">Ativo</string>
+    <string name="label_date">Data</string>
+    <string name="label_no_records">Sem registros</string>
+    <string name="label_accesses_by_type">Acessos por Tipo</string>
+    <string name="label_accesses_by_user">Usuários com maior nº de acessos</string>
+
+    <string name="button_save">Salvar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_access">Ver Acessos</string>
+
+    <string name="button_yes">Sim</string>
+    <string name="button_no">Não</string>
+    <string name="text_delete_dialog">Tem certeza que deseja excluir o registro?</string>
+
+    <string name="toast_error_rest">Erro na conexão com o servidor!</string>
+    <string name="toast_fields_error">Preencha os campos corretamente!</string>
+    <string name="toast_insert_success">Registro inserido!</string>
+    <string name="toast_insert_error">Erro ao inserir registro!</string>
+    <string name="toast_update_success">Registro atualizado!</string>
+    <string name="toast_update_error">Erro ao atualizar registro!</string>
+    <string name="toast_delete_success">Registro excluído!</string>
+    <string name="toast_delete_error">Erro ao excluir registro!</string>
+    <string name="toast_nfc_unavailable">Este dispositivo não possui suporte a NFC.</string>
+</resources>
